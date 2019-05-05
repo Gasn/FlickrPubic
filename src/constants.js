@@ -1,0 +1,1 @@
+export const API_BASE_URL = 'https://api.flickr.com/services/feeds/photos_public.gne?format=json&tagmode=any';

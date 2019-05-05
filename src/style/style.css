@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  color: #111111;
+  letter-spacing: 0.35px;
+  line-height: 19px; }
+
+p {
+  color: #111111;
+  font-size: 16px; }
+
+.App {
+  padding: 20px; }
+
+.MainScreen input {
+  padding: 5px;
+  border-radius: 5px;
+  width: 300px;
+  font-size: 16px;
+  outline: none; }
